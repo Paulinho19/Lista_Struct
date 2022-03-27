@@ -1,0 +1,1 @@
+Olá instrutor (es), tive certa dificuldade na parte de raciocínio lógico durante as questões. Fiz um 'rascunho' de programa de todas, no entanto só consegui terminar efetivamente o exercício 1, por este motivo estou disponibilizando somente um script. 
